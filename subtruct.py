@@ -1,2 +1,2 @@
 def subtruct(a, b):
-    returb a - b
+    return a - b
